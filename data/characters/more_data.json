@@ -1,7 +1,8 @@
 [
   {
     "category": "Playable Characters",
-    "additional_title": "",
+    "additional_title": "Chief Alchemist of the Knights of Favonius",
+    "father": "NA",
     "mother": "Rhinedottir",
     "siblings": "Durin,Primordial Albedo & Rifthounds",
     "relative": "NA",
@@ -12,11 +13,12 @@
   {
     "category": "Playable Characters",
     "additional_title": "Sumeru Akademiya Scribe",
+    "father": "NA",
     "mother": "NA",
     "siblings": "NA",
     "relative": "Alhaitham's Grandmother",
     "obtain": "Event Wish - Caution in Confidence",
-    "wish_image": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Character_Albedo_Full_Wish.png/revision/latest/scale-to-width-down/1000?cb=20220507161942",
-    "ingame_image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Character_Albedo_Game.png/revision/latest?cb=20210918164853"
+    "wish_image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e4/Character_Alhaitham_Full_Wish.png/revision/latest/scale-to-width-down/1000?cb=20230118030435",
+    "ingame_image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1b/Character_Alhaitham_Game.png/revision/latest?cb=20230225083219"
   }
 ]
