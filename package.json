@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/TheBotMaker-420/GenshinImpact-Bot/issues"
   },
-  "homepage": "https://github.com/TheBotMaker-420/GenshinImpact-Bot/tree/main#readme"
+  "homepage": "https://github.com/TheBotMaker-420/GenshinImpact-Bot/tree/main#readme",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  }
 }
