@@ -1,0 +1,19 @@
+{
+  "name": "genshinimpact-bot",
+  "version": "1.0.0",
+  "description": "A Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheBotMaker-420/GenshinImpact-Bot.git#main"
+  },
+  "author": "anmol420",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheBotMaker-420/GenshinImpact-Bot/issues"
+  },
+  "homepage": "https://github.com/TheBotMaker-420/GenshinImpact-Bot/tree/main#readme"
+}
