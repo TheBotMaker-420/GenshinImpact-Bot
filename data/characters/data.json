@@ -13,5 +13,20 @@
     "description": "A synthetic human made by the alchemist Rhinedottir, the mysterious Albedo is the Chief Alchemist and Captain of the Investigation Team of the Knights of Favonius.",
     "release_date": "December 23, 2020",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Albedo_Card.png/revision/latest/scale-to-width-down/1000?cb=20210302092013"
+  },
+  {
+    "name": "Alhaitham",
+    "title": "Admonishing Instruction",
+    "quality": "5",
+    "vision": "Geo",
+    "model_type": "Medium Male",
+    "birthday": "September 13th",
+    "region": "Mondstadt",
+    "constellation": "Princeps Cretaceus",
+    "weapon": "Sword",
+    "special_dish": "Woodland Dream",
+    "description": "A synthetic human made by the alchemist Rhinedottir, the mysterious Albedo is the Chief Alchemist and Captain of the Investigation Team of the Knights of Favonius.",
+    "release_date": "December 23, 2020",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/70/Alhaitham_Card.png/revision/latest/scale-to-width-down/1000?cb=20221209042646"
   }
 ]
