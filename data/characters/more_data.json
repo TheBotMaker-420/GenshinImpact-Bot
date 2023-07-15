@@ -1,5 +1,6 @@
 [
   {
+    "name": "Albedo",
     "category": "Playable Characters",
     "additional_title": "Chief Alchemist of the Knights of Favonius",
     "father": "NA",
@@ -11,6 +12,7 @@
     "ingame_image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Character_Albedo_Game.png/revision/latest?cb=20210918164853"
   },
   {
+    "name": "Alhaitham",
     "category": "Playable Characters",
     "additional_title": "Sumeru Akademiya Scribe",
     "father": "NA",
