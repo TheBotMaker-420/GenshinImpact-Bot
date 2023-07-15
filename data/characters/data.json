@@ -1,6 +1,7 @@
 [
   {
     "name": "Albedo",
+    "color": "Yellow",
     "title": "Kreideprinz",
     "quality": "5",
     "vision": "Geo",
@@ -16,6 +17,7 @@
   },
   {
     "name": "Alhaitham",
+    "color": "Green",
     "title": "Admonishing Instruction",
     "quality": "5",
     "vision": "Geo",
@@ -31,6 +33,7 @@
   },
   {
     "name": "Aloy",
+    "color": "Blue",
     "title": "Savior From Another World",
     "quality": "5",
     "vision": "Cryo",
@@ -46,6 +49,7 @@
   },
   {
     "name": "Amber",
+    "color": "Red",
     "title": "Gliding Champion",
     "quality": "4",
     "vision": "Pyro",
@@ -61,6 +65,7 @@
   },
   {
     "name": "Arataki Itto",
+    "color": "DarkButNotBlack",
     "title": "Hanamizaka Heroics",
     "quality": "5",
     "vision": "Geo",
