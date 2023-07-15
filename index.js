@@ -8,7 +8,7 @@ const client = new Client({intents: [513]});
 
 client.commands = new Collection();
 
-const commands = [];
+const commands = ["extras","utility"];
 
 const foldersPath = path.join(__dirname, 'commands');
 const commandFolders = fs.readdirSync(foldersPath);
@@ -27,6 +27,26 @@ for (const folder of commandFolders) {
         }
     }
 }
+
+const rest = new REST().setToken(process.env.TOKEN);
+
+// and deploy your commands!
+(async () => {
+    try {
+        console.log(`Started refreshing ${commands.length} application (/) commands.`);
+
+        // The put method is used to fully refresh all commands in the guild with the current set
+        const data = await rest.put(
+            Routes.applicationGuildCommands(clientId, guildId),
+            { body: commands },
+        );
+
+        console.log(`Successfully reloaded ${data.length} application (/) commands.`);
+    } catch (error) {
+        // And of course, make sure you catch and log any errors!
+        console.error(error);
+    }
+})();
 
 client.on(Events.InteractionCreate, async interaction => {
     if (!interaction.isChatInputCommand()) return;
@@ -49,26 +69,6 @@ client.on(Events.InteractionCreate, async interaction => {
         }
     }
 });
-
-const rest = new REST().setToken(process.env.TOKEN);
-
-// and deploy your commands!
-(async () => {
-    try {
-        console.log(`Started refreshing ${commands.length} application (/) commands.`);
-
-        // The put method is used to fully refresh all commands in the guild with the current set
-        const data = await rest.put(
-            Routes.applicationGuildCommands(clientId, guildId),
-            { body: commands },
-        );
-
-        console.log(`Successfully reloaded ${data.length} application (/) commands.`);
-    } catch (error) {
-        // And of course, make sure you catch and log any errors!
-        console.error(error);
-    }
-})();
 
 client.once(Events.ClientReady, c => {
     console.log(`Ready! Logged in as ${c.user.tag}`);
