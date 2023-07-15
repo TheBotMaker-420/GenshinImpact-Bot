@@ -43,5 +43,35 @@
     "description": "She is the heroine from Horizon Zero Dawn and is introduced as a collaboration and crossover character between Guerrilla Games and HoYoverse.",
     "release_date": "September 01, 2021",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cd/Aloy_Card.png/revision/latest?cb=20210722184414"
+  },
+  {
+    "name": "Amber",
+    "title": "Gliding Champion",
+    "quality": "4",
+    "vision": "Pyro",
+    "model_type": "Medium Female",
+    "birthday": "August 10th",
+    "region": "Mondstadt",
+    "constellation": "Lepus",
+    "weapon": "Bow",
+    "special_dish": "Outrider's Champion Steak!",
+    "description": "As the only remaining Outrider of the Knights of Favonius, she is always ready to help the citizens of Mondstadt — whether it be something simple or perhaps a more challenging task.",
+    "release_date": "September 28, 2020",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Amber_Card.png/revision/latest/scale-to-width-down/1000?cb=20220725204839"
+  },
+  {
+    "name": "Arataki Itto",
+    "title": "Hanamizaka Heroics",
+    "quality": "5",
+    "vision": "Geo",
+    "model_type": "Tall Male",
+    "birthday": "June 1st",
+    "region": "Inazuma",
+    "constellation": "Taurus Iracundus",
+    "weapon": "Claymore",
+    "special_dish": "Way Of The Strong",
+    "description": "A loud and proud descendant of the crimson oni, Itto is also the leader and founder of the Arataki Gang. While not a villain, his reputation as a delinquent in Inazuma City leaves something to be desired.",
+    "release_date": "December 14, 2021",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9d/Arataki_Itto_Card.png/revision/latest/scale-to-width-down/1000?cb=20220725204845"
   }
 ]
