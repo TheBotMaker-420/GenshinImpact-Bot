@@ -7,7 +7,7 @@ const client = new Client({intents: [513]});
 
 client.commands = new Collection();
 
-const commands = ['extras','utility'];
+const commands = ['extras','utility','information'];
 
 const foldersPath = path.join(__dirname, 'commands');
 const commandFolders = fs.readdirSync(foldersPath);
