@@ -22,11 +22,12 @@ module.exports = {
 
         let find_one = data.find(item => item.name.toLowerCase() === id.toLowerCase());
 
-        for (let i=1;i<=find_one.quality;i++) {
-            stars += ":star: ";
-        }
-
         if (find_one) {
+
+            for (let i=1;i<=find_one.quality;i++) {
+                stars += ":star: ";
+            }
+
             const char_embed = new EmbedBuilder()
                 .setColor(find_one.color)
                 .setTitle(`**__${find_one.name}__**`)
