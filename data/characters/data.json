@@ -78,5 +78,20 @@
     "description": "A loud and proud descendant of the crimson oni, Itto is also the leader and founder of the Arataki Gang. While not a villain, his reputation as a delinquent in Inazuma City leaves something to be desired.",
     "release_date": "December 14, 2021",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9d/Arataki_Itto_Card.png/revision/latest/scale-to-width-down/1000?cb=20220725204845"
+  },{
+    "name": "Baizhu",
+    "color": "Lightgreen",
+    "title": "Beyond Mortality",
+    "quality": "5",
+    "vision": "Dendro"
+    "model_type": "Tall Male",
+    "birthday": "April 25st",
+    "region": "Liyue",
+    "constellation": "Lagnaria",
+    "weapon": "Catalyst",
+    "special_dish": "Head-Quelling Soup",
+    "description": "The owner of Bubu Pharmacy and Qiqi's guardian, Doctor Baizhu is a master of the medicinal arts and the latest recipient of a generational contract with a white snake named Changsheng. He seeks to achieve immortality to ensure he is the last to ever bear his contract, saving potential inheritors and even Changsheng herself from the cost that comes with its power.",
+    "release_date": "May 2, 2023",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/ae/Baizhu_Card.png/revision/latest/scale-to-width-down/1000?cb=20230224215334"
   }
 ]
