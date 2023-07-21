@@ -127,7 +127,7 @@
     "release_date": "September 28, 2020",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c0/Beidou_Card.png/revision/latest/scale-to-width-down/1000?cb=20220725204858"
   },
-   {
+  {
     "name": "Bennett",
     "color": "Purple",
     "title": "Uncrowned Lord of the Ocean",
@@ -139,7 +139,7 @@
     "constellation": "Victor Mare",
     "weapon": "Claymore",
     "special_dish": "Flash-Fried Filet",
-    "description": "An orphan discovered by an elderly adventurer as a baby, Bennett was raised in Mondstadt's Adventurers' Guild. He is the one and only member of "Benny's Adventure Team," as everyone else left the team after experiencing the constant misfortune that follows him.",
+    "description": "An orphan discovered by an elderly adventurer as a baby, Bennett was raised in Mondstadt's Adventurers' Guild. He is the one and only member of \"Benny's Adventure Team\", as everyone else left the team after experiencing the constant misfortune that follows him.",
     "release_date": "September 28, 2020",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c5/Bennett_Card.png/revision/latest/scale-to-width-down/1000?cb=20220725204904"
   },
@@ -193,7 +193,7 @@
   },
   {
     "name": "Cyno",
-    "color": "Blueviolet",
+    "color": "Blue",
     "title": "Judicator of Secrets",
     "quality": "5",
     "vision": "Electro",
@@ -219,7 +219,7 @@
     "constellation": "Mantichora",
     "weapon": "Claymore",
     "special_dish": "Goldflame Tajine",
-    "description": "A fierce and strong warrior, the "Flame-Mane" Dehya is considered a legend among the Eremites for her might, passion, and conscientiousness. Unwilling to be trapped by the conditions that force most from the desert to stay there, she aspires to deliver hope back to the sands that she considers her home.",
+    "description": "A fierce and strong warrior, the \"Flame-Mane\" Dehya is considered a legend among the Eremites for her might, passion, and conscientiousness. Unwilling to be trapped by the conditions that force most from the desert to stay there, she aspires to deliver hope back to the sands that she considers her home.",
     "release_date": "March 01, 2023",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/de/Dehya_Card.png/revision/latest/scale-to-width-down/1000?cb=20230116100745"
   },
@@ -239,9 +239,9 @@
     "release_date": "September 28, 2020",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e7/Diluc_Card.png/revision/latest/scale-to-width-down/1000?cb=20220725204921"
   },
-   {
+  {
     "name": "Diona",
-    "color": "Lightblue",
+    "color": "Blue",
     "title": "Kätzlein Cocktail",
     "quality": "4",
     "vision": "Cyro",
@@ -267,13 +267,13 @@
     "constellation": "Magicae Lucerna",
     "weapon": "Claymore",
     "special_dish": " Show Me the Mora",
-    "description": "The owner of The Palace of Alcazarzaray and a merchant of high regard, "Lord Sangemah Bay" is well-known for her ability to obtain anything a person needs, as long as they have enough Mora to afford her jaw-dropping prices.",
+    "description": "The owner of The Palace of Alcazarzaray and a merchant of high regard, \"Lord Sangemah Bay\" is well-known for her ability to obtain anything a person needs, as long as they have enough Mora to afford her jaw-dropping prices.",
     "release_date": "September 09, 2022",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Dori_Card.png/revision/latest/scale-to-width-down/1000?cb=20220711042206"
   },
   {
     "name": "Eula",
-    "color": "Lightblue",
+    "color": "Blue",
     "title": "Dance of the Shimmering Wave",
     "quality": "5",
     "vision": "Cryo",
@@ -289,7 +289,7 @@
   },
   {
     "name": "Faruzan",
-    "color": "Lightblue",
+    "color": "Blue",
     "title": "Enigmatic Machinist",
     "quality": "4",
     "vision": "Anemo",
@@ -351,7 +351,7 @@
     "release_date": "March 02, 2021",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937"
   },
-   {
+  {
     "name": "Jean",
     "color": "Blue",
     "title": "Dandelion Knight",
@@ -367,7 +367,7 @@
     "release_date": "September 28, 2020",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a8/Jean_Card.png/revision/latest/scale-to-width-down/1000?cb=20220725210053"
   },
-   {
+  {
     "name": "Kaedehara Kazuha",
     "color": "Blue",
     "title": "Scarlet Leaves Pursue Wild Waves",
@@ -415,5 +415,36 @@
     "release_date": "July 21, 2021",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Kamisato_Ayaka_Card.png/revision/latest/scale-to-width-down/1000?cb=20210607100828"
   },
-  
+  {
+    "name": "Kamisato Ayato",
+    "color": "Blue",
+    "title": "Pillar of Fortitude",
+    "quality": "5",
+    "vision": "Hydro",
+    "model_type": "Tall Male",
+    "birthday": "March 26th",
+    "region": "Inazuma",
+    "constellation": "Cypressus Custos",
+    "weapon": "Sword",
+    "special_dish": "Quiet Elegance",
+    "description": "He is the current head of the Kamisato Clan, the older brother of Kamisato Ayaka, and the Yashiro Commissioner. Resourceful and cunning, Ayato keeps a lower profile than his sister and focuses on government affairs in the Commission.",
+    "release_date": "March 30, 2022",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/12/Kamisato_Ayato_Card.png/revision/latest/scale-to-width-down/281?cb=20220927195614"
+  },
+  {
+    "name": "",
+    "color": "",
+    "title": "",
+    "quality": "",
+    "vision": "",
+    "model_type": "",
+    "birthday": "",
+    "region": "",
+    "constellation": "",
+    "weapon": "",
+    "special_dish": "",
+    "description": "",
+    "release_date": "",
+    "image": ""
+  }
 ]
