@@ -2,6 +2,7 @@ const fs = require('node:fs');
 const path = require('node:path');
 const {Client, Collection, Events} = require('discord.js');
 require('dotenv').config();
+const { deploy } = require('./deploy');
 
 const client = new Client({intents: [513]});
 
@@ -26,6 +27,8 @@ for (const folder of commandFolders) {
         }
     }
 }
+
+deploy;
 
 client.on(Events.InteractionCreate, async interaction => {
     if (!interaction.isChatInputCommand()) return;
