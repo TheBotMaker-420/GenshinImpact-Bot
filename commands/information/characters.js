@@ -4,7 +4,7 @@ const data = require('../../data/characters/data.json');
 module.exports = {
     data: new SlashCommandBuilder()
         .setName('character')
-        .setDescription('Provides Character Information')
+        .setDescription("Replies With The Character's Information")
         .addStringOption(option =>
             option
                 .setName('name')
