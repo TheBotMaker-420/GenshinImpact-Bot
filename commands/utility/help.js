@@ -8,6 +8,7 @@ module.exports = {
         const help_embed = new EmbedBuilder()
             .setColor("DarkVividPink")
             .setTitle("**Help Menu**")
+            .setURL('https://github.com/TheBotMaker-420/GenshinImpact-Bot')
             .addFields(
                 {
                     name: "__Information__",
