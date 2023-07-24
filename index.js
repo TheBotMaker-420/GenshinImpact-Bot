@@ -54,6 +54,11 @@ client.on(Events.InteractionCreate, async interaction => {
 
 client.once(Events.ClientReady, c => {
     console.log(`Ready! Logged in as ${c.user.tag}`);
+    c.user.setPresence({
+        activities: [{
+            name: "/help",
+        }],
+    });
 });
 
 client.login(process.env.TOKEN).then(r => console.log('Logged In!'));
