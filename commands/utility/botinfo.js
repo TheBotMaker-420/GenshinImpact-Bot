@@ -75,7 +75,7 @@ module.exports = {
                 },
                 {
                     name: `Developers (Discord Tags)`,
-                    value: `\`\`\`anmol420 | xdcybergamerz | yash_.xd\`\`\``,
+                    value: `\`\`\`anmol420 | xdcybergamerz \`\`\``,
                     inline: true
                 }
             )
