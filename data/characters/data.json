@@ -720,6 +720,22 @@
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/16/Rosaria_Card.png/revision/latest/scale-to-width-down/281?cb=20210330063015"
   },
   {
+    "name": "Sangonomiya Kokomi",
+    "color": "Blue",
+    "title": "Pearl of Wisdom",
+    "quality": "5",
+    "vision": "Hydro",
+    "model_type": "Medium Female",
+    "birthday": "February 22nd",
+    "region": "Inazuma",
+    "constellation": "Dracaena Somnolenta",
+    "weapon": "Catalyst",
+    "special_dish": "A Stunning Stratagem",
+    "description": "The young Divine Priestess of Watatsumi Island and a descendant of the Sangonomiya Clan, Kokomi is in charge of most of Watatsumi's affairs, shouldering heavy responsibilities alone in hopes for giving Watatsumi Island's people the hopes and happiness that they desire.",
+    "release_date": "September 21, 2021",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f4/Sangonomiya_Kokomi_Card.png/revision/latest/scale-to-width-down/281?cb=20220725205145"
+  },
+  {
     "name": "Sayu",
     "color": "Blue",
     "title": "Mujina Ninja",
