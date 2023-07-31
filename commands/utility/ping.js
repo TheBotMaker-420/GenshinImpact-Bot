@@ -5,7 +5,6 @@ module.exports = {
         .setName('ping')
         .setDescription('Replies with Ping'),
     async execute(interaction) {
-        const sent = await interaction.reply({ content: 'Pinging...', fetchReply: true });
-        await interaction.editReply(`${interaction.client.ws.ping}ms`);
+        await interaction.reply(`${interaction.client.ws.ping}ms`);
     },
 };
