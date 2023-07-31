@@ -8,7 +8,7 @@ module.exports = {
         const support_embed = new EmbedBuilder()
             .setColor("DarkGold")
             .setTitle("**Support Server**")
-            .setDescription(`[Click Here To Join The Support Server](https://discord.gg/YeNZe3AgcQ)`)
+            .setDescription(`[Click Here To Join The Support Server](https://discord.gg/47wazmdAbT)`)
             .setTimestamp()
             .setFooter({
                 text: `To Get More Help Type \`/help\`.`
