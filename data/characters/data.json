@@ -96,7 +96,7 @@
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/ae/Baizhu_Card.png/revision/latest/scale-to-width-down/1000?cb=20230224215334"
   },
   {
-    "name": "Barbara",
+    "name": "Barbara pegg",
     "color": "Blue",
     "title": "Shining Idol",
     "quality": "4",
@@ -224,7 +224,7 @@
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/de/Dehya_Card.png/revision/latest/scale-to-width-down/1000?cb=20230116100745"
   },
   {
-    "name": "Diluc",
+    "name": "Diluc Ragnvindr",
     "color": "Red",
     "title": "The Dark Side of Dawn",
     "quality": "5",
@@ -334,6 +334,22 @@
     "description": "He is a general of the Watatsumi Army. Courageous and reliable, his men know they can place their trust in him both on and off of the battlefield.",
     "release_date": "December 14, 2021",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Gorou_Card.png/revision/latest/scale-to-width-down/1000?cb=20220725204934"
+  }, 
+  {
+    "name": "Ganyu",
+    "color": "sea blue",
+    "title": "Plenilune Gaze",
+    "quality": "5",
+    "vision": "Cryo",
+    "model_type": "Medium Female",
+    "birthday": "December 2nd",
+    "region": "Liyue",
+    "constellation": "Sinae Unicornis",
+    "weapon": "Bow",
+    "special_dish": "Prosperous Peace",
+    "description": "Ganyu (Chinese: 甘雨 Gānyǔ) is a playable Cryo character in Genshin Impact.She is a half-qilin Adeptus under contract with the Geo Archon Morax and serves as the general secretary of the Liyue Qixing.",
+    "release_date": "January 12, 2021",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/24/Ganyu_Card.png/revision/latest/scale-to-width-down/1000?cb=20230519012433"
   },
   {
     "name": "Hu Tao",
@@ -896,7 +912,7 @@
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Wanderer_Card.png/revision/latest/scale-to-width-down/250?cb=20221207032514"
   },
   {
-    "name": "Xiangling",
+    "name": "Mao Xiangling",
     "color": "Red",
     "title": "Exquisite Delicacy",
     "quality": "4",
@@ -928,7 +944,7 @@
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Xiao_Card.png/revision/latest/scale-to-width-down/281?cb=20220725205230"
   },
   {
-    "name": "Xingqui",
+    "name": "Xingqiu",
     "color": "Blue",
     "title": "Juvenile Galant",
     "quality": "4",
