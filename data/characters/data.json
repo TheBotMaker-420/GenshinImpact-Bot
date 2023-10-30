@@ -65,7 +65,7 @@
   },
   {
     "name": "Arataki Itto",
-    "color": "DarkButNotBlack",
+    "color": "Green",
     "title": "Hanamizaka Heroics",
     "quality": "5",
     "vision": "Geo",
@@ -81,7 +81,7 @@
   },
   {
     "name": "Baizhu",
-    "color": "Lightgreen",
+    "color": "Red",
     "title": "Beyond Mortality",
     "quality": "5",
     "vision": "Dendro",
